@@ -1,7 +1,7 @@
 <img width="1469" height="916" alt="image" src="https://github.com/user-attachments/assets/333cebf6-3ae6-44c3-b05f-fe1f717de57e" />
 
 ### 🔗 Portfolio & Study Log
-- 📑 **[상세 포트폴리오 및 학습 기록 (Notion)]((https://www.notion.so/Jiwon-Min-2fb63263c4bf80fb97aec1c307046fb9?source=copy_link))**
+- 📑 **[상세 포트폴리오 및 학습 기록 (Notion)]((https://suave-alligator-579.notion.site/Jiwon-Min-2fb63263c4bf80fb97aec1c307046fb9))**
 <!--
 **minwldnjs/minwldnjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
