@@ -1,7 +1,7 @@
 
 
-### 🔗 Portfolio & Study Log
-- 📑 https://minwldnjs.notion.site/Jiwon-Min-2fb63263c4bf80fb97aec1c307046fb9?source=copy_link
+###  Portfolio & Study Log
+- https://minwldnjs.notion.site/Jiwon-Min-2fb63263c4bf80fb97aec1c307046fb9?source=copy_link
 <!--
 **minwldnjs/minwldnjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
